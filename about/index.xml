@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Hovys Lab</title>
+    <link>https://pursh2002.github.io/Portfolio-9/about/</link>
+    <description>Recent content in About on Hovys Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pursh2002.github.io/Portfolio-9/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

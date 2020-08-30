@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hovys Lab</title>
+    <link>https://pursh2002.github.io/Portfolio-9/post/</link>
+    <description>Recent content in Projects on Hovys Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pursh2002.github.io/Portfolio-9/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Classification of Heart Sound Recordings</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-1/</guid>
+      <description>The 2016 PhysioNet/CinC Challenge aims to encourage the development of algorithms to classify heart sound recordings collected from a variety of clinical or nonclinical (such as in-home visits) environments. The aim is to identify, from a single short recording (10-60s) from a single precordial location, whether the subject of the recording should be referred on for an expert diagnosis.
+  Link to Kaggle</description>
+    </item>
+    
+    <item>
+      <title>Detecting Parkinson’s Disease</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-14/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-14/</guid>
+      <description>Parkinson’s disease is a progressive disorder of the central nervous system affecting movement and inducing tremors and stiffness. It has 5 stages to it and affects more than 1 million individuals every year in India. This is chronic and has no cure yet. It is a neurodegenerative disorder affecting dopamine-producing neurons in the brain. In this project, I used XGBClassifier from the xgboost library scikit-learn API for XGBoost classification.
+Dataset used - UCI ML Parkinsons dataset</description>
+    </item>
+    
+    <item>
+      <title>Catch me if you can</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-17/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-17/</guid>
+      <description>Web-user identification is a hot research topic on the brink of sequential pattern mining and behavioral psychology.
+Here we try to identify a user on the Internet tracking his/her sequence of attended Web pages. The algorithm to be built will take a webpage session (a sequence of webpages attended consequently by the same person) and predict whether it belongs to Alice or somebody else.
+The data comes from Blaise Pascal University proxy servers.</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Visualization of Earnings based on college degrees</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-13/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-13/</guid>
+      <description>In this guided project, we&amp;rsquo;ll explore how using the pandas plotting functionality along with the Jupyter notebook interface allows us to explore data quickly using visualizations. Working on guided projects will give you hands-on experience with real-world examples, so we encourage you to not only complete them but to take the time to really understand the concepts.
+  Link to github</description>
+    </item>
+    
+    <item>
+      <title>Exploratory data analysis with NYC Motor Vehicle Collisions </title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-10/</link>
+      <pubDate>Sun, 11 Feb 2018 11:13:32 -0400</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-10/</guid>
+      <description>The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage (https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/ny_overlay_mv-104an_rev05_2004.pdf). There is data on over 1.5 million collisions dating back to 2012.</description>
+    </item>
+    
+    <item>
+      <title>Fraud Detection</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-7/</link>
+      <pubDate>Sun, 11 Feb 2018 11:13:32 -0400</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-7/</guid>
+      <description>The PwC global economic crime survey of 2016 suggests that approximately 36% of organizations experienced economic crime. Therefore, there is definitely a need to solve the problem of credit card fraud detection. The task of fraud detection often boils down to outlier detection, in which a dataset is scanned through to find potential anomalies in the data. In the past, this was done by employees which checked all transactions manually. With the rise of machine learning, artificial intelligence, deep learning and other relevant fields of information technology, it becomes feasible to automate this process and to save some of the intensive amount of labor that is put into detecting credit card fraud.</description>
+    </item>
+    
+    <item>
+      <title>Helpdesk Agent</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-6/</link>
+      <pubDate>Sun, 11 Feb 2018 11:13:32 -0400</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-6/</guid>
+      <description>Creating a support agent can bring down costs massively for a business. No need to hire an entire team when one well-trained agent can answer multiple requests simultaneously 24/7. This is a huge opportunity for disruption! In this project we&amp;rsquo;re going to train a simple machine learning model for predicting helpdesk response time using BigQuery. Then we&amp;rsquo;ll build a simple chatbot using Dialogflow and learn how to integrate the trained BigQuery ML model into the helpdesk chatbot.</description>
+    </item>
+    
+    <item>
+      <title>Stock Prediction</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-8/</link>
+      <pubDate>Sun, 11 Feb 2018 11:13:32 -0400</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-8/</guid>
+      <description>The homework for this week is to build 3 different types of regression lines to predict stock prices using Python, then print out the prediction for the best performing one.
+Step 1 - Go to Yahoo Finance and find a stock price that you want to predict. Click on historical data, then download the CSV of that stocks price history https://finance.yahoo.com/quote/AAPL/history?p=AAPL
+Step 2 - Use Scikit learn to try out 3 different types of regression models to predict the price of that stock for a future date.</description>
+    </item>
+    
+    <item>
+      <title>My First Project on Machine Learning</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-9/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-9/</guid>
+      <description>The early diagnosis of BC can improve the prognosis and chance of survival significantly, as it can promote timely clinical treatment to patients. Further accurate classification of benign tumors can prevent patients undergoing unnecessary treatments. Thus, the correct diagnosis of BC and classification of patients into malignant or benign groups is the subject of much research.
+  Link to github</description>
+    </item>
+    
+    <item>
+      <title> My first deep learning project- Dog Breed Identification</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-16/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-16/</guid>
+      <description>In this playground Kaggle competition, you are provided with strictly canine subset of ImageNet in order to practice fine-grained image categorization. How well you can tell your Norfolk Terriers from your Norwich Terriers? With 120 breeds of dogs and a limited number training images per class, you might find the problem more, err, ruff than you anticipated.
+  Link to github</description>
+    </item>
+    
+    <item>
+      <title>Dengue Predicting Disease Spread</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-15/</link>
+      <pubDate>Thu, 01 Jan 1970 06:03:39 +0530</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-15/</guid>
+      <description>Demonstration on an Application for Disease Analytics predictive analytics framework by an application for disease analytics. Specifically, we apply the framework to predict dengue cases in San Juan, Puerto Rico.
+  Link to github</description>
+    </item>
+    
+    <item>
+      <title>Detection of Pneumonia from Chest X-Ray</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-4/</link>
+      <pubDate>Thu, 01 Jan 1970 06:03:39 +0530</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-4/</guid>
+      <description>Training a classifier on medical images is a crucial task to aid doctors and provide lower cost services to patients. If we can build a classifier that can diagnosis a given disease and provide it to patients who can&amp;rsquo;t afford a doctor as an app, we have a scalable business. In this project, I have demostrated to perform transfer learning to predict pneumonia in a patient, given their chest x-ray data using Custom Deep Convololutional Neural Network and by retraining pretrained model “InceptionV3” with 5856 images of X-ray</description>
+    </item>
+    
+    <item>
+      <title>Dota 2 Winner Prediction</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-20/</link>
+      <pubDate>Thu, 01 Jan 1970 06:03:39 +0530</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-20/</guid>
+      <description>In this competition your task is to predict the outcome of a Dota 2 game given all the game’s characteristics up to a certain point in the game. There are two teams in Dota 2 games: Radiant and Dire. You’ll need to evaluate the chances team Radiant victory. Game’s data is presented with numeric and categorical features, event logs, time series, etc. Working with game’s data and learning to see patterns and regularities can prove very useful in further work.</description>
+    </item>
+    
+    <item>
+      <title>Explorotory Data Analysis pandas_olympic</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-19/</link>
+      <pubDate>Thu, 01 Jan 1970 06:03:39 +0530</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-19/</guid>
+      <description>There are ten questions about 120 years of Olympic history in this task. Your task is to fill in the missing Python code and choose answers in this web-form.
+  Link to github</description>
+    </item>
+    
+    <item>
+      <title>Generative Adversarial Network</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-5/</link>
+      <pubDate>Thu, 01 Jan 1970 06:03:39 +0530</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-5/</guid>
+      <description>Generate fashion designs using Tensorflow! Retail is an incredibly lucrative field to enter because so much of retail currently relies on physical assets (stores, clothing, equipment) and a lot of this can now be automated using machine learning technology. We can use generative models to generate shoes, shirts, dresses, unique mugs, basically anything that someone would want to buy. We just need to find a relevant dataset. Generative modeling is incredibly powerful technology that will change how we interact with the internet (see DeepFakes).</description>
+    </item>
+    
+    <item>
+      <title>Assignment decision trees</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-18/</link>
+      <pubDate>Thu, 01 Jan 1970 06:03:38 +0530</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-18/</guid>
+      <description>In this assignment, we will find out how a decision tree works in a regression task, then will build and tune classification decision trees for identifying heart diseases. Prior to working on the assignment, you&amp;rsquo;d better check out the corresponding course material: Classification, Decision Trees and k Nearest Neighbors, the same as an interactive web-based Kaggle Kernel Ensembles: Bagging, the same as a Kaggle Kernel Random Forest, the same as a Kaggle Kernel Feature Importance, the same as a Kaggle Kernel Gradient boosting, the same as a Kaggle Kernel Logistic regression, Random Forest, and LightGBM in the &amp;ldquo;Kaggle Forest Cover Type Prediction&amp;rdquo; competition: Kernel You can also practice with demo assignments, which are simpler and already shared with solutions: &amp;ldquo;Decision trees with a toy task and the UCI Adult dataset&amp;rdquo;: assignment + solution &amp;ldquo;Logistic Regression and Random Forest in the credit scoring problem&amp;rdquo;: assignment + solution There are also 7 video lectures on trees, forests, boosting and their applications: mlcourse.</description>
+    </item>
+    
+    <item>
+      <title>Plant Seedlings Classification</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-3/</link>
+      <pubDate>Thu, 01 Jan 1970 06:03:37 +0530</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-3/</guid>
+      <description>AI saturday(4 month Jeremy Howard training) project
+  Placed 537 out of 3000 parcipaint
+  Can you differentiate a weed from a crop seedling?
+  The ability to do so effectively can mean better crop yields and better stewardship of the environment.
+The Aarhus University Signal Processing group, in collaboration with University of Southern Denmark, has recently released a dataset containing images of approximately 960 unique plants belonging to 12 species at several growth stages.</description>
+    </item>
+    
+    <item>
+      <title>Flight delays</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-11/</guid>
+      <description>Predict whether a flight will be delayed for more than 15 minutes.
+In this assignment, you&amp;rsquo;re asked to beat a baseline in the &amp;ldquo;Flight delays&amp;rdquo; competition. This time we decided to share a pretty decent CatBoost baseline, you&amp;rsquo;ll have to improve the provided solution. Prior to working on the assignment, you&amp;rsquo;d better check out the corresponding course material: Classification, Decision Trees and k Nearest Neighbors, the same as an interactive web-based Kaggle Kernel Ensembles: Bagging, the same as a Kaggle Kernel Random Forest, the same as a Kaggle Kernel Feature Importance, the same as a Kaggle Kernel Gradient boosting, the same as a Kaggle Kernel Logistic regression, Random Forest, and LightGBM in the &amp;ldquo;Kaggle Forest Cover Type Prediction&amp;rdquo; competition: Kernel You can also practice with demo assignments, which are simpler and already shared with solutions: &amp;ldquo;Decision trees with a toy task and the UCI Adult dataset&amp;rdquo;: assignment + solution &amp;ldquo;Logistic Regression and Random Forest in the credit scoring problem&amp;rdquo;: assignment + solution There are also 7 video lectures on trees, forests, boosting and their applications: mlcourse.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Healthcare Appointment</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-12/</guid>
+      <description>Given the dates and times of scheduling day and appointment day, predict if a patient will miss their medical appointment.
+Data set medical appointment no-show hosted on Kaggle https://www.kaggle.com/joniarroba/noshowappointments,This dataset consists of over 110,000 medical appointments.The main three columns we will use for this project are the ScheduledDay (date and time when the appointment was scheduled), AppointmentDay(date of the appointment, no time included), No-Show (binary flag indicating if they no-showed).</description>
+    </item>
+    
+    <item>
+      <title>Skin Cancer Detection app</title>
+      <link>https://pursh2002.github.io/Portfolio-9/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-9/post/project-2/</guid>
+      <description>This is a project on skin cancer detection web app which has been implemented with flask framework and deployed on Heroku. The model has been built using fastai deep learning library which is a high level api for pytorch. The classifier has been trained using skin dataset collected from google and loaded to Kaggle which contains 400 images of three categories of pigmented skin lesions. The classifier has been built with transfer learning technique using a pretrained Densenet169 model.</description>
+    </item>
+    
+  </channel>
+</rss>
